@@ -1,5 +1,5 @@
 ---
-name: project-resource
+name: resource
 description: File a reading resource (URL, local file, or pasted text) under an open ideas.md project idea — pick category, pick project, save it with a summary into that project's references/.
 disable-model-invocation: true
 argument-hint: "<URL, file path, or pasted text>"
@@ -7,7 +7,7 @@ argument-hint: "<URL, file path, or pasted text>"
 
 # Project resource — reading material into an open idea's references/
 
-Attaches the resource in `$ARGUMENTS` to one **open idea**: an unticked `- [ ]` line in `ideas.md` whose parenthesised path names its folder, e.g. `- [ ] SkinMatch (projects/app-projects/skinmatch/)`. Folders are scaffolded by `/project-idea`; this skill writes only into `references/` and `ideas.md`.
+Attaches the resource in `$ARGUMENTS` to one **open idea**: an unticked `- [ ]` line in `ideas.md` whose parenthesised path names its folder, e.g. `- [ ] SkinMatch (projects/app-projects/skinmatch/)`. Folders are scaffolded by `/idea`; this skill writes only into `references/` and `ideas.md`.
 
 ## Steps
 
@@ -29,7 +29,7 @@ Done when you hold one category.
 
 Map the category to its `ideas.md` section (`app-projects` → `## App Projects`, `saas-projects` → `## SaaS Projects`, `side-projects` → `## Side Projects`) and collect its open ideas.
 
-- **No open ideas**: tell the user the section is empty, suggest `/project-idea` to create one, and stop.
+- **No open ideas**: tell the user the section is empty, suggest `/idea` to create one, and stop.
 - **Otherwise**: rank the open ideas by how directly the resource feeds that project, and offer at most five in one `AskUserQuestion` call. The tool shows four options, so put the top four there and, when a fifth exists, name it in the question text so the user can type it via "Other". Label = the idea's name (shortened to fit), description = the decision or assumption of that project the resource would inform. Best fit first, marked `(Recommended)`. With a single open idea, offer it plus `Cancel`.
 
 Done when you hold one idea and its folder path.

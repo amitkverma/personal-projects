@@ -1,5 +1,5 @@
 ---
-name: project-idea
+name: idea
 description: Capture a raw project idea or URL — sharpen it into four name+pitch angles, pick a category, scaffold projects/<category>/<slug>/ with references/ and TODO.md, and add it to ideas.md.
 disable-model-invocation: true
 argument-hint: "<raw idea, a URL, or both>"

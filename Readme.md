@@ -21,8 +21,8 @@ Files in `references/` start with a provenance comment:
 
 ## Workflow
 
-1. `/project-idea <raw idea or URL>`: pitches four angles, picks a category, scaffolds `projects/<category>/<slug>/` with `references/` and `TODO.md`, and adds the idea to `ideas.md`.
-2. `/project-resource <URL, file, or pasted text>`: files reading material under an open idea's `references/` with a summary, and links it from `ideas.md`.
+1. `/idea <raw idea or URL>`: pitches four angles, picks a category, scaffolds `projects/<category>/<slug>/` with `references/` and `TODO.md`, and adds the idea to `ideas.md`.
+2. `/resource <URL, file, or pasted text>`: files reading material under an open idea's `references/` with a summary, and links it from `ideas.md`.
 3. Work through the idea's `TODO.md`: grill the idea, write discovery docs into `docs/`, test the riskiest assumptions, write the MVP PRD, build, launch.
 4. Tick the idea in `ideas.md` once shipped or dropped.
 

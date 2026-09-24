@@ -1,6 +1,6 @@
 # Project Ideas
 
-Open ideas are `- [ ]`, shipped or dropped ideas are `- [x]`. Each line links its folder; `/project-idea` adds lines here and `/project-resource` adds `Reference:` lines beneath them.
+Open ideas are `- [ ]`, shipped or dropped ideas are `- [x]`. Each line links its folder; `/idea` adds lines here and `/resource` adds `Reference:` lines beneath them.
 
 ## App Projects
 
