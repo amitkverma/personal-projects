@@ -23,6 +23,10 @@ Open ideas are `- [ ]`, shipped or dropped ideas are `- [x]`. Each line links it
 - [ ] Kharcha (projects/app-projects/kharcha/)
 - [ ] ReviewMatch (projects/app-projects/reviewmatch/)
   - Reference: https://dribbble.com/shots/25874930-AI-Health-Copilot-From-User-Story-to-Human-Centered-Experience
+- [ ] Recall (projects/app-projects/recall/)
+  - Reference: https://github.com/dragthelake/ambient-context
+  - Reference: https://wisprflow.ai/
+  - Reference: https://www.typeless.com/
 
 ## SaaS Projects
 
