@@ -27,6 +27,15 @@ Open ideas are `- [ ]`, shipped or dropped ideas are `- [x]`. Each line links it
   - Reference: https://github.com/dragthelake/ambient-context
   - Reference: https://wisprflow.ai/
   - Reference: https://www.typeless.com/
+- [ ] Mann (projects/app-projects/mann/)
+  - Reference: https://mobbin.com/apps/ahead-ios-5f6db6dd-13a1-4644-a51f-a58d600f3d7a/84466810-423a-44b1-9cec-2cc39d633bbf/screens
+  - Reference: https://ahead-app.com/
+- [ ] Pause (projects/app-projects/pause/)
+  - Reference: https://mobbin.com/apps/ahead-ios-5f6db6dd-13a1-4644-a51f-a58d600f3d7a/84466810-423a-44b1-9cec-2cc39d633bbf/screens
+  - Reference: https://ahead-app.com/
+- [ ] StartNow (projects/app-projects/startnow/)
+  - Reference: https://mobbin.com/apps/ahead-ios-5f6db6dd-13a1-4644-a51f-a58d600f3d7a/84466810-423a-44b1-9cec-2cc39d633bbf/screens
+  - Reference: https://ahead-app.com/
 
 ## SaaS Projects
 
