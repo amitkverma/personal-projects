@@ -10,6 +10,11 @@ Open ideas are `- [ ]`, shipped or dropped ideas are `- [x]`. Each line links it
   - Reference: https://lovi.care/
 - [ ] SleepShift (projects/app-projects/sleepshift/)
   - Reference: https://www.risescience.com/
+  - Reference: https://appllama.io/apps/6514310473/sleep-tracker-sound-by-remly
+  - Reference: https://appllama.io/apps/1512367809/aumio-sleep-sounds-stories
+  - Reference: https://appllama.io/apps/1551928101/sleep-tracker-recorder-sound
+  - Reference: https://appllama.io/apps/1138066420/sleepwatch-top-sleep-tracker
+  - Reference: https://appllama.io/apps/1510325113/sleep-monitor-sleep-tracker
 - [ ] ExamEnergy (projects/app-projects/examenergy/)
   - Reference: https://www.risescience.com/
 - [ ] Sthir (projects/app-projects/sthir/)
@@ -20,6 +25,7 @@ Open ideas are `- [ ]`, shipped or dropped ideas are `- [x]`. Each line links it
   - Reference: https://www.getstoic.com/
   - Reference: https://welltory.com/
   - Reference: https://www.risescience.com/
+  - Reference: https://appllama.io/apps/6514310473/sleep-tracker-sound-by-remly
 - [ ] Kharcha (projects/app-projects/kharcha/)
 - [ ] ReviewMatch (projects/app-projects/reviewmatch/)
   - Reference: https://dribbble.com/shots/25874930-AI-Health-Copilot-From-User-Story-to-Human-Centered-Experience
@@ -43,6 +49,8 @@ Open ideas are `- [ ]`, shipped or dropped ideas are `- [x]`. Each line links it
   - Reference: https://haut.ai/
 - [ ] Grounded (projects/saas-projects/grounded/)
   - Reference: https://www.mentalyc.com/
+- [ ] TapTest (projects/saas-projects/taptest/)
+  - Reference: https://www.tapkit.ai/
 
 ## Side Projects
 
